@@ -1,0 +1,12 @@
+{
+  "name": "financialplan-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/an-dutra/FinancialPlanAPI.git",
+  "author": {
+    "name": "Anderson Dutra de Oliveira",
+    "email": "andutra@live.com"
+  },
+  "license": "MIT",
+  "private": true
+}
