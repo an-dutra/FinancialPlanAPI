@@ -2,7 +2,7 @@
   "extends": [
     "eslint:recommended",
     "plugin:json/recommended",
-    "puglin:prettier/recommended"
+    "plugin:prettier/recommended"
   ],
   "env": {
     "es6": true,
